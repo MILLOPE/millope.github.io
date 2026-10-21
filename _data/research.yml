@@ -1,0 +1,16 @@
+- id: agentic-robotics
+  title: Agentic Robotics
+  description: Research on agentic robotic systems for long-horizon manipulation.
+  focus:
+    - Hierarchical task planning
+    - Tool-augmented robotic agents
+    - Skill execution and closed-loop feedback
+    - Task evaluation and replanning
+
+- id: vla-learning
+  title: Vision-Language-Action Learning
+  focus:
+    - VLA model post-training
+    - Robot demonstration data processing
+    - Multimodal perception and action prediction
+    - Simulation-based robotic evaluation
