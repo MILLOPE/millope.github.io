@@ -1,0 +1,1 @@
+const toc=document.querySelector(".page-toc details"),desktop=window.matchMedia("(min-width: 1100px)");if(toc){const t=()=>{toc.open=desktop.matches};t(),desktop.addEventListener("change",t)}
